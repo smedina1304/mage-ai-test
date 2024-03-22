@@ -1,0 +1,73 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - clean_universities_data
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: extract universities list
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: extract_universities_list
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks:
+  - export_universities_data
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: clean universities data
+  retry_config: null
+  status: executed
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - extract_universities_list
+  uuid: clean_universities_data
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: export universities data
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_exporter
+  upstream_blocks:
+  - clean_universities_data
+  uuid: export_universities_data
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2023-10-27 19:33:11.746942+00:00'
+data_integration: null
+description: null
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: universities_available
+notification_config: {}
+retry_config: {}
+run_pipeline_in_one_process: false
+spark_config: {}
+tags: []
+type: python
+updated_at: '2023-10-27 20:08:28'
+uuid: universities_available
+variables:
+  data_storage_path: ./data_storage
+  param_country: Brazil
+widgets: []
