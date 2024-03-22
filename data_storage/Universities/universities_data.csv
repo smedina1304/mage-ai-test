@@ -1,177 +1,179 @@
 ,name,country_code,country,domains,web_pages
-0,Centro Universitário Barao de Maua,BR,Brazil,baraodemaua.br,http://www.baraodemaua.br/
-1,Universidade Braz Cubas,BR,Brazil,brazcubas.br,http://www.brazcubas.br/
-2,Universidade Candido Mendes,BR,Brazil,candidomendes.br,http://www.candidomendes.br/
-3,Universidade Castelo Branco,BR,Brazil,castelobranco.br,http://www.castelobranco.br/
-4,Centro Universitário Claretiano,BR,Brazil,claretiano.edu.br,http://www.claretiano.edu.br/
-5,Centro Regional Universitário de Espiríto Santo do Pinhal,BR,Brazil,creupi.br,http://www.creupi.br/
-6,EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória,BR,Brazil,emescam.br,http://www.emescam.br/
-7,Universidade Federal de São Paulo,BR,Brazil,epm.br,http://www.epm.br/
-8,Universidade Estácio de Sá,BR,Brazil,estacio.br,http://www.estacio.br/
-9,FAAP - Fundação Armando Alvares Penteado,BR,Brazil,faap.br,http://www.faap.br/
-10,Faculdades Integradas Curitiba,BR,Brazil,faculdadescuritiba.br,http://www.faculdadescuritiba.br/
-11,FAE Business School - Faculdade de Administração e Economia,BR,Brazil,fae.edu,http://www.fae.edu/
-12,Fundação Educacional de Ituverava,BR,Brazil,feituverava.com.br,http://www.feituverava.com.br/
-13,Faculdade Integradas do Ceará,BR,Brazil,fic.br,http://www.fic.br/
-14,Universidade do Amazonas,BR,Brazil,fua.br,http://www.fua.br/
-15,Universidade Regional de Blumenau,BR,Brazil,furb.rct-sc.br,http://www.furb.rct-sc.br/
-16,Universidade Federal do Rio Grande,BR,Brazil,furg.br,http://www.furg.br/
-17,Instituto Nacional de Matemática Pura e Aplicada - IMPA,BR,Brazil,impa.br,http://www.impa.br/
-18,Instituto Militar de Engenharia,BR,Brazil,ime.eb.mil.br,http://www.ime.eb.mil.br
-19,Instituto Tecnológico de Aeronáutica,BR,Brazil,ita.br,http://www.ita.br/
-20,Insper Instituto de Ensino e Pesquisa,BR,Brazil,insper.edu.br,https://www.insper.edu.br
-21,Faculdade Italo Brasileira,BR,Brazil,italo.br,http://www.italo.br/
-22,Universidade Mackenzie,BR,Brazil,mackenzie.br,http://www.mackenzie.br/
-23,Instituto Mauá de Tecnologia,BR,Brazil,maua.br,http://www.maua.br/
-24,Centro Universitário Newton Paiva,BR,Brazil,newtonpaiva.br,http://www.newtonpaiva.br/
-25,Universidade de Tocantins,BR,Brazil,pop-to.rnp.br,http://www.pop-to.rnp.br/
-26,Pontifícia Universidade Católica de Campinas,BR,Brazil,puccamp.br,http://www.puccamp.br/
-27,Pontifícia Universidade Católica de Minas Gerais,BR,Brazil,pucminas.br,http://www.pucminas.br/
-28,Pontificia Universidade Católica do Paraná,BR,Brazil,pucpr.br,http://www.pucpr.br/
-29,Pontifícia Universidade Católica do Rio de Janeiro,BR,Brazil,puc-rio.br,http://www.puc-rio.br/
-30,Pontifícia Universidade Católica do Rio Grande do Sul,BR,Brazil,pucrs.br,http://www.pucrs.br/
-31,Pontifícia Universidade Católica de São Paulo,BR,Brazil,pucsp.br,http://www.pucsp.br/
-32,Universidade São Judas Tadeu,BR,Brazil,saojudas.br,http://www.saojudas.br/
-33,Universidade São Marcos,BR,Brazil,smarcos.br,http://www.smarcos.br/
-34,Centro Universitário Senac,BR,Brazil,sp.senac.br,http://www.sp.senac.br/
-35,Universidade Santa Cecília dos Bandeirantes,BR,Brazil,stcecilia.br,http://www.stcecilia.br/
-36,Universidade Federal de Roraima,BR,Brazil,technet.com.br,http://www.technet.com.br/vestibular/
-37,Faculdades Integradas Toledo,BR,Brazil,toledo.br,http://www.toledo.br/
-38,Universidade Católica de Brasília,BR,Brazil,ucb.br,http://www.ucb.br/
-39,Universidade Católica de Goiás,BR,Brazil,ucg.br,http://www.ucg.br/
-40,Universidade Católica de Petrópolis,BR,Brazil,ucp.br,http://www.ucp.br/
-41,Universidade Católica de Pelotas,BR,Brazil,ucpel.tche.br,http://www.ucpel.tche.br/
-42,Universidade Católica de Salvador,BR,Brazil,ucsal.br,http://www.ucsal.br/
-43,Universidade de Caxias do Sul,BR,Brazil,ucs.tche.br,http://www.ucs.tche.br/
-44,Universidade do Estado de Santa Catarina,BR,Brazil,udesc.br,http://www.udesc.br/
-45,Universidade Estadual do Ceará,BR,Brazil,uece.br,http://www.uece.br/
-46,Universidade Estadual de Feira de Santana,BR,Brazil,uefs.br,http://www.uefs.br/
-47,Universidade Estadual de Londrina,BR,Brazil,uel.br,http://www.uel.br/
-48,Universidade Estadual do Maranhão,BR,Brazil,uema.br,http://www.uema.br/
-49,Universidade Estadual de Maringá,BR,Brazil,uem.br,http://www.uem.br/
-50,Universidade Estadual do Norte Fluminense,BR,Brazil,uenf.br,http://www.uenf.br/
-51,Universidade Estadual da Paraíba,BR,Brazil,uepb.edu.br,http://www.uepb.edu.br/
-52,Universidade Estadual de Ponta Grossa,BR,Brazil,uepg.br,http://www.uepg.br/
-53,Universidade do Estado do Rio de Janeiro,BR,Brazil,uerj.br,http://www.uerj.br/
-54,Universidade do Estado do Rio Grande do Norte,BR,Brazil,uern.br,http://www.uern.br/
-55,Universidade Estadual Sudoeste da Bahia,BR,Brazil,uesb.br,http://www.uesb.br/
-56,Universidade Estadual de Santa Cruz,BR,Brazil,uesc.br,http://www.uesc.br/
-57,Universidade Estadual do Piauí,BR,Brazil,uespi.br,http://www.uespi.br/
-58,Universidade Federal do ABC,BR,Brazil,ufabc.edu.br,http://www.ufabc.edu.br/
-59,Universidade Federal do Acre,BR,Brazil,ufac.br,http://www.ufac.br/
-60,Universidade Federal de Alagoas,BR,Brazil,ufal.br,http://www.ufal.br/
-61,Universidade Federal da Bahia,BR,Brazil,ufba.br,http://www.ufba.br/
-62,Universidade Federal do Ceará,BR,Brazil,ufc.br,http://www.ufc.br/
-63,Universidade Federal de Campina Grande,BR,Brazil,ufcg.edu.br,http://www.ufcg.edu.br/
-64,Universidade Federal do Espírito Santo,BR,Brazil,ufes.br,http://www.ufes.br/
-65,Universidade Federal Fluminense,BR,Brazil,uff.br,http://www.uff.br/
-66,Universidade Federal de Goiás,BR,Brazil,ufg.br,http://www.ufg.br/
-67,Universidade Federal da Grande Dourados,BR,Brazil,ufgd.edu.br,http://www.ufgd.edu.br/
-68,Universidade Federal de Juiz de Fora,BR,Brazil,ufjf.br,http://www.ufjf.br/
-69,Universidade Federal de Lavras,BR,Brazil,ufla.br,http://www.ufla.br/
-70,Universidade Federal do Maranhão,BR,Brazil,ufma.br,http://www.ufma.br/
-71,Universidade Federal de Minas Gerais,BR,Brazil,"ufmg.br,dcc.ufmg.br",http://www.ufmg.br/
-72,Universidade Federal dos Vales do Jequitinhonha e Mucuri,BR,Brazil,ufvjm.edu.br,http://www.ufvjm.edu.br
-73,Universidade Federal de Itajubá,BR,Brazil,unifei.edu.br,https://unifei.edu.br/
-74,Universidade Federal de São João del-Rei,BR,Brazil,ufsj.edu.br,https://www.ufsj.edu.br/
-75,Universidade Federal do Triângulo Mineiro,BR,Brazil,uftm.edu.br,http://www.uftm.edu.br/
-76,Universidade Federal de Mato Grosso do Sul,BR,Brazil,ufms.br,http://www.ufms.br/
-77,Universidade Federal de Mato Grosso,BR,Brazil,ufmt.br,http://www.ufmt.br/
-78,Universidade Federal de Ouro Preto,BR,Brazil,ufop.br,http://www.ufop.br/
-79,Universidade Federal do Pará,BR,Brazil,ufpa.br,http://www.ufpa.br/
-80,Universidade Federal da Paraíba,BR,Brazil,ufpb.br,http://www.ufpb.br/
-81,Universidade Federal de Pernambuco,BR,Brazil,ufpe.br,http://www.ufpe.br/
-82,Universidade Federal de Pelotas,BR,Brazil,ufpel.tche.br,http://www.ufpel.tche.br/
-83,Universidade Federal do Piauí,BR,Brazil,ufpi.br,http://www.ufpi.br/
-84,Universidade Federal do Paraná,BR,Brazil,ufpr.br,http://www.ufpr.br/
-85,Universidade Federal do Rio Grande do Sul,BR,Brazil,ufrgs.br,http://www.ufrgs.br/
-86,Universidade Federal do Rio de Janeiro,BR,Brazil,ufrj.br,http://www.ufrj.br/
-87,Universidade Federal do Rio Grande do Norte,BR,Brazil,ufrn.br,http://www.ufrn.br/
-88,Universidade Federal Rural de Pernambuco,BR,Brazil,ufrpe.br,http://www.ufrpe.br/
-89,Universidade Federal Rural do Rio de Janeiro,BR,Brazil,ufrrj.br,http://www.ufrrj.br/
-90,Universidade Federal de Sergipe,BR,Brazil,ufs.br,http://www.ufs.br/
-91,Universidade Federal de São Carlos,BR,Brazil,ufscar.br,http://www.ufscar.br/
-92,Universidade Federal de Santa Catarina,BR,Brazil,ufsc.br,http://www.ufsc.br/
-93,Universidade Federal de Santa Maria,BR,Brazil,ufsm.br,http://www.ufsm.br/
-94,Universidade Federal de Uberlândia,BR,Brazil,ufu.br,http://www.ufu.br/
-95,Universidade Federal de Viçosa,BR,Brazil,ufv.br,http://www.ufv.br/
-96,Universidade Gama Filho,BR,Brazil,ugf.br,http://www.ugf.br/
-97,Universidade Luterana do Brasil,BR,Brazil,ulbra.br,http://www.ulbra.br/
-98,Universidade de Mogi das Cruzes,BR,Brazil,umc.br,http://www.umc.br/
-99,Universidade de Ribeirão Preto,BR,Brazil,unaerp.br,http://www.unaerp.br/
-100,Universidade da Amazônia,BR,Brazil,unama.br,http://www.unama.br/
-101,Universidade de Brasília,BR,Brazil,unb.br,http://www.unb.br/
-102,Universidade do Estado da Bahia,BR,Brazil,uneb.br,http://www.uneb.br/
-103,Universidade do Extremo Sul Catarinense,BR,Brazil,unesc.rct-sc.br,http://www.unesc.rct-sc.br/
-104,Universidade Estadual Paulista,BR,Brazil,unesp.br,http://www.unesp.br/
-105,Universidade de Guarulhos,BR,Brazil,ung.br,http://www.ung.br/
-106,Centro Universitário de Araraquara,BR,Brazil,uniara.com.br,http://www.uniara.com.br/
-107,Universidade Bandeirante de São Paulo,BR,Brazil,uniban.br,http://www.uniban.br/
-108,Universidade Ibirapuera,BR,Brazil,unib.br,http://www.unib.br/
-109,Universidade Católica Dom Bosco,BR,Brazil,unibosco.br,http://www.unibosco.br/
-110,Faculdades Integradas do Brasil - UNIBRASIL,BR,Brazil,unibrasil.com.br,http://www.unibrasil.com.br/
-111,Universidade Estadual de Campinas,BR,Brazil,unicamp.br,http://www.unicamp.br/
-112,Universidade Católica de Pernambuco,BR,Brazil,unicap.br,http://www.unicap.br/
-113,Universidade Camilo Castelo Branco,BR,Brazil,unicastelo.br,http://www.unicastelo.br/
-114,Universidade Cidade de São Paulo,BR,Brazil,unicid.br,http://www.unicid.br/
-115,Universidade de Cruz Alta,BR,Brazil,unicruz.tche.br,http://www.unicruz.tche.br/
-116,Universidade Cruzeiro do Sul,BR,Brazil,unicsul.br,http://www.unicsul.br/
-117,Universidade para o Desenvolvimento do Alto Vale do Itajaí,BR,Brazil,unidavi.rct-sc.br,http://www.unidavi.rct-sc.br/
-118,Universidade Salvador,BR,Brazil,unifacs.br,http://www.unifacs.br/
-119,Universidade Federal do Amapá,BR,Brazil,unifap.br,http://www.unifap.br/
-120,Universidade de Alfenas,BR,Brazil,unifenas.br,http://www.unifenas.br/
-121,Centro Universitário Serra dos Órgãos,BR,Brazil,unifeso.edu.br,http://www.unifeso.edu.br/
-122,Universidade de Fortaleza,BR,Brazil,unifor.br,http://www.unifor.br/
-123,Universidade de Franca,BR,Brazil,unifran.br,http://www.unifran.br/
-124,Universidade de Nova Iguaçu,BR,Brazil,unig.br,http://www.unig.br/
-125,Universidade do Grande Rio,BR,Brazil,unigranrio.br,http://www.unigranrio.br/
-126,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,BR,Brazil,unijui.tche.br,http://www.unijui.tche.br/
-127,Universidade de Marília,BR,Brazil,unimar.br,http://www.unimar.br/
-128,Universidade Metodista de Piracicaba,BR,Brazil,unimep.br,http://www.unimep.br/
-129,Universidade Metropolitana de Santos,BR,Brazil,unimes.com.br,http://www.unimes.com.br/
-130,Centro Universitário Monte Serrat,BR,Brazil,unimonte.br,http://www.unimonte.br/
-131,Universidade Estadual de Montes Claros,BR,Brazil,unimontes.br,http://www.unimontes.br/
-132,Universidade Estadual do Oeste do Paraná,BR,Brazil,unioeste.br,http://www.unioeste.br/
-133,Centro Universitário de João Pessoa,BR,Brazil,unipe.br,http://www.unipe.br/
-134,Centro Universitário Plinio Leite,BR,Brazil,unipli.com.br,http://www.unipli.com.br/
-135,Universidade Paulista,BR,Brazil,unip-objetivo.br,http://www.unip-objetivo.br/
-136,Universidade Federal de Rondônia,BR,Brazil,unir.br,http://www.unir.br/
-137,Universidade do Rio de Janeiro,BR,Brazil,unirio.br,http://www.unirio.br/
-138,Universidade de Santo Amaro,BR,Brazil,unisa.br,http://www.unisa.br/
-139,Universidade Católica de Santos,BR,Brazil,unisantos.com.br,http://www.unisantos.com.br/
-140,Universidade de Santa Cruz do Sul,BR,Brazil,unisc.br,http://www.unisc.br/
-141,Universidade Vale do Rio dos Sinos,BR,Brazil,unisinos.br,http://www.unisinos.br/
-142,Universidade do Sul de Santa Catarina,BR,Brazil,unisul.br,http://www.unisul.br/
-143,Universidade de Taubaté,BR,Brazil,unitau.br,http://www.unitau.br/
-144,Universidade Tiradentes,BR,Brazil,unit.br,http://www.unit.br/
-145,Universidade de Uberaba,BR,Brazil,uniube.br,http://www.uniube.br/
-146,Universidade Vale do Rio Doce,BR,Brazil,univale.br,http://www.univale.br/
-147,Universidade do Vale do Itajaí,BR,Brazil,univali.rct-sc.br,http://www.univali.rct-sc.br/
-148,Universidade Vale do Paraiba,BR,Brazil,univap.br,http://www.univap.br/
-149,Universidade Federal do Vale do São Francisco,BR,Brazil,univasf.edu.br,http://www.univasf.edu.br/
-150,Universidade Salgado de Oliveira,BR,Brazil,universo.br,http://www.universo.br/
-151,Universidade do Oeste de Santa Catarina,BR,Brazil,unoesc.edu.br,http://www.unoesc.edu.br/
-152,Universidade do Oeste Paulista,BR,Brazil,unoeste.br,http://www.unoeste.br/
-153,Universidade Potiguar,BR,Brazil,unp.br,http://www.unp.br/
-154,Universidade de Pernambuco,BR,Brazil,upe.br,http://www.upe.br/
-155,Universidade de Passo Fundo,BR,Brazil,upf.tche.br,http://www.upf.tche.br/
-156,Faculdades Integradas UPIS,BR,Brazil,upis.br,http://www.upis.br/
-157,Universidade Regional do Cariri,BR,Brazil,urca.br,http://www.urca.br/
-158,Universidade da Região da Campanha,BR,Brazil,urcamp.tche.br,http://www.urcamp.tche.br/
-159,Universidade Regional Integrada do Alto Uruguai e das Missões,BR,Brazil,uri.br,http://www.uri.br/
-160,Universidade do Sagrado Coração,BR,Brazil,usc.br,http://www.usc.br/
-161,Universidade São Francisco,BR,Brazil,usf.br,http://www.usf.br/
-162,Universidade de São Paulo,BR,Brazil,usp.br,http://www.usp.br/
-163,Universidade Santa Úrsula,BR,Brazil,usu.br,http://www.usu.br/
-164,Universidade Veiga de Almeida,BR,Brazil,uva.br,http://www.uva.br/
-165,Universidade Estadual do Vale do Acaraú,BR,Brazil,uvanet.br,http://www.uvanet.br/
-166,Universidade de Itaúna,BR,Brazil,web.prover.com.br,http://web.prover.com.br/fui/
-167,Universidade Tecnológica Federal do Paraná,BR,Brazil,utfpr.edu.br,https://www.utfpr.edu.br/
-168,Instituto Infnet,BR,Brazil,"infnet.edu.br,al.infnet.edu.br,prof.infnet.edu.br","https://www.infnet.edu.br/infnet/,https://ecdd.infnet.edu.br/,https://www.infnet.edu.br/esti/,https://negocios.infnet.edu.br/,https://bootcamp.infnet.edu.br/,https://training.infnet.edu.br/"
-169,Centro Universitário UniFatecie,BR,Brazil,fatecie.edu.br,"https://unifatecie.edu.br/,https://ead.unifatecie.edu.br/,https://fatecie.edu.br/"
-170,Universidade Franciscana,BR,Brazil,ufn.edu.br,https://www.ufn.edu.br/
-171,Faculdade Dom Bosco,BR,Brazil,faculdadedombosco.edu.br,https://faculdadedombosco.edu.br
-172,UNINOVE,BR,Brazil,"uninove.br,uni9.edu.br",https://uninove.br
-173,Polytechnic University of Pernambuco,BR,Brazil,"upe.poli.br,ecomp.poli.br,poli.br",https://upe.poli.br
-174,Cruzeiro do Sul University,BR,Brazil,aluno.cruzeirodosul.edu.br,https://cruzeirodosul.edu.br
-175,Universidade Virtual do Estado de São Paulo,BR,Brazil,univesp.br,https://univesp.br/
+0,"Centro Universitário de Brasília, UNICEUB",BR,Brazil,"sempreceub.com,uniceub.br",https://www.uniceub.br
+1,Centro Universitário Barao de Maua,BR,Brazil,baraodemaua.br,http://www.baraodemaua.br/
+2,Universidade Braz Cubas,BR,Brazil,brazcubas.br,http://www.brazcubas.br/
+3,Universidade Candido Mendes,BR,Brazil,candidomendes.br,http://www.candidomendes.br/
+4,Universidade Castelo Branco,BR,Brazil,castelobranco.br,http://www.castelobranco.br/
+5,Centro Universitário Claretiano,BR,Brazil,claretiano.edu.br,http://www.claretiano.edu.br/
+6,Centro Regional Universitário de Espiríto Santo do Pinhal,BR,Brazil,creupi.br,http://www.creupi.br/
+7,EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória,BR,Brazil,emescam.br,http://www.emescam.br/
+8,Universidade Federal de São Paulo,BR,Brazil,epm.br,http://www.epm.br/
+9,Universidade Estácio de Sá,BR,Brazil,estacio.br,http://www.estacio.br/
+10,FAAP - Fundação Armando Alvares Penteado,BR,Brazil,faap.br,http://www.faap.br/
+11,Faculdades Integradas Curitiba,BR,Brazil,faculdadescuritiba.br,http://www.faculdadescuritiba.br/
+12,FAE Business School - Faculdade de Administração e Economia,BR,Brazil,fae.edu,http://www.fae.edu/
+13,Fundação Educacional de Ituverava,BR,Brazil,feituverava.com.br,http://www.feituverava.com.br/
+14,Faculdade Integradas do Ceará,BR,Brazil,fic.br,http://www.fic.br/
+15,Universidade do Amazonas,BR,Brazil,fua.br,http://www.fua.br/
+16,Universidade Regional de Blumenau,BR,Brazil,furb.rct-sc.br,http://www.furb.rct-sc.br/
+17,Universidade Federal do Rio Grande,BR,Brazil,furg.br,http://www.furg.br/
+18,Instituto Nacional de Matemática Pura e Aplicada - IMPA,BR,Brazil,impa.br,http://www.impa.br/
+19,Instituto Militar de Engenharia,BR,Brazil,ime.eb.mil.br,http://www.ime.eb.mil.br
+20,Instituto Tecnológico de Aeronáutica,BR,Brazil,ita.br,http://www.ita.br/
+21,Insper Instituto de Ensino e Pesquisa,BR,Brazil,insper.edu.br,https://www.insper.edu.br
+22,Faculdade Italo Brasileira,BR,Brazil,italo.br,http://www.italo.br/
+23,Universidade Mackenzie,BR,Brazil,mackenzie.br,http://www.mackenzie.br/
+24,Instituto Mauá de Tecnologia,BR,Brazil,maua.br,http://www.maua.br/
+25,Centro Universitário Newton Paiva,BR,Brazil,newtonpaiva.br,http://www.newtonpaiva.br/
+26,Universidade de Tocantins,BR,Brazil,pop-to.rnp.br,http://www.pop-to.rnp.br/
+27,Pontifícia Universidade Católica de Campinas,BR,Brazil,puccamp.br,http://www.puccamp.br/
+28,Pontifícia Universidade Católica de Minas Gerais,BR,Brazil,pucminas.br,http://www.pucminas.br/
+29,Pontificia Universidade Católica do Paraná,BR,Brazil,pucpr.br,http://www.pucpr.br/
+30,Pontifícia Universidade Católica do Rio de Janeiro,BR,Brazil,puc-rio.br,http://www.puc-rio.br/
+31,Pontifícia Universidade Católica do Rio Grande do Sul,BR,Brazil,pucrs.br,http://www.pucrs.br/
+32,Pontifícia Universidade Católica de São Paulo,BR,Brazil,pucsp.br,http://www.pucsp.br/
+33,Universidade São Judas Tadeu,BR,Brazil,saojudas.br,http://www.saojudas.br/
+34,Universidade São Marcos,BR,Brazil,smarcos.br,http://www.smarcos.br/
+35,Centro Universitário Senac,BR,Brazil,sp.senac.br,http://www.sp.senac.br/
+36,Universidade Santa Cecília dos Bandeirantes,BR,Brazil,stcecilia.br,http://www.stcecilia.br/
+37,Universidade Federal de Roraima,BR,Brazil,technet.com.br,http://www.technet.com.br/vestibular/
+38,Faculdades Integradas Toledo,BR,Brazil,toledo.br,http://www.toledo.br/
+39,Universidade Católica de Brasília,BR,Brazil,ucb.br,http://www.ucb.br/
+40,Universidade Católica de Goiás,BR,Brazil,ucg.br,http://www.ucg.br/
+41,Universidade Católica de Petrópolis,BR,Brazil,ucp.br,http://www.ucp.br/
+42,Universidade Católica de Pelotas,BR,Brazil,ucpel.tche.br,http://www.ucpel.tche.br/
+43,Universidade Católica de Salvador,BR,Brazil,"ucsal.br,ucsal.edu.br",http://www.ucsal.br/
+44,Universidade de Caxias do Sul,BR,Brazil,ucs.tche.br,http://www.ucs.tche.br/
+45,Universidade do Estado de Santa Catarina,BR,Brazil,udesc.br,http://www.udesc.br/
+46,Universidade Estadual do Ceará,BR,Brazil,uece.br,http://www.uece.br/
+47,Universidade Estadual de Feira de Santana,BR,Brazil,uefs.br,http://www.uefs.br/
+48,Universidade Estadual de Londrina,BR,Brazil,uel.br,http://www.uel.br/
+49,Universidade Estadual do Maranhão,BR,Brazil,uema.br,http://www.uema.br/
+50,Universidade Estadual de Maringá,BR,Brazil,uem.br,http://www.uem.br/
+51,Universidade Estadual do Norte Fluminense,BR,Brazil,uenf.br,http://www.uenf.br/
+52,Universidade Estadual da Paraíba,BR,Brazil,uepb.edu.br,http://www.uepb.edu.br/
+53,Universidade Estadual de Ponta Grossa,BR,Brazil,uepg.br,http://www.uepg.br/
+54,Universidade do Estado do Rio de Janeiro,BR,Brazil,uerj.br,http://www.uerj.br/
+55,Universidade do Estado do Rio Grande do Norte,BR,Brazil,uern.br,http://www.uern.br/
+56,Universidade Estadual Sudoeste da Bahia,BR,Brazil,uesb.br,http://www.uesb.br/
+57,Universidade Estadual de Santa Cruz,BR,Brazil,uesc.br,http://www.uesc.br/
+58,Universidade Estadual do Piauí,BR,Brazil,uespi.br,http://www.uespi.br/
+59,Universidade Federal do ABC,BR,Brazil,ufabc.edu.br,http://www.ufabc.edu.br/
+60,Universidade Federal do Acre,BR,Brazil,ufac.br,http://www.ufac.br/
+61,Universidade Federal de Alagoas,BR,Brazil,ufal.br,http://www.ufal.br/
+62,Universidade Federal da Bahia,BR,Brazil,ufba.br,http://www.ufba.br/
+63,Universidade Federal do Ceará,BR,Brazil,ufc.br,http://www.ufc.br/
+64,Universidade Federal de Campina Grande,BR,Brazil,ufcg.edu.br,http://www.ufcg.edu.br/
+65,Universidade Federal do Espírito Santo,BR,Brazil,ufes.br,http://www.ufes.br/
+66,Universidade Federal Fluminense,BR,Brazil,uff.br,http://www.uff.br/
+67,Universidade Federal de Goiás,BR,Brazil,ufg.br,http://www.ufg.br/
+68,Universidade Federal da Grande Dourados,BR,Brazil,ufgd.edu.br,http://www.ufgd.edu.br/
+69,Universidade Federal de Juiz de Fora,BR,Brazil,ufjf.br,http://www.ufjf.br/
+70,Universidade Federal de Lavras,BR,Brazil,ufla.br,http://www.ufla.br/
+71,Universidade Federal do Maranhão,BR,Brazil,ufma.br,http://www.ufma.br/
+72,Universidade Federal de Minas Gerais,BR,Brazil,"ufmg.br,dcc.ufmg.br",http://www.ufmg.br/
+73,Universidade Federal dos Vales do Jequitinhonha e Mucuri,BR,Brazil,ufvjm.edu.br,http://www.ufvjm.edu.br
+74,Universidade Federal de Itajubá,BR,Brazil,unifei.edu.br,https://unifei.edu.br/
+75,Universidade Federal de São João del-Rei,BR,Brazil,ufsj.edu.br,https://www.ufsj.edu.br/
+76,Universidade Federal do Triângulo Mineiro,BR,Brazil,uftm.edu.br,http://www.uftm.edu.br/
+77,Universidade Federal de Mato Grosso do Sul,BR,Brazil,ufms.br,http://www.ufms.br/
+78,Universidade Federal de Mato Grosso,BR,Brazil,ufmt.br,http://www.ufmt.br/
+79,Universidade Federal de Ouro Preto,BR,Brazil,ufop.br,http://www.ufop.br/
+80,Universidade Federal do Pará,BR,Brazil,ufpa.br,http://www.ufpa.br/
+81,Universidade Federal da Paraíba,BR,Brazil,ufpb.br,http://www.ufpb.br/
+82,Universidade Federal de Pernambuco,BR,Brazil,ufpe.br,http://www.ufpe.br/
+83,Universidade Federal de Pelotas,BR,Brazil,ufpel.tche.br,http://www.ufpel.tche.br/
+84,Universidade Federal do Piauí,BR,Brazil,ufpi.br,http://www.ufpi.br/
+85,Universidade Federal do Paraná,BR,Brazil,ufpr.br,http://www.ufpr.br/
+86,Universidade Federal do Rio Grande do Sul,BR,Brazil,ufrgs.br,http://www.ufrgs.br/
+87,Universidade Federal do Rio de Janeiro,BR,Brazil,ufrj.br,http://www.ufrj.br/
+88,Universidade Federal do Rio Grande do Norte,BR,Brazil,ufrn.br,http://www.ufrn.br/
+89,Universidade Federal Rural de Pernambuco,BR,Brazil,ufrpe.br,http://www.ufrpe.br/
+90,Universidade Federal Rural do Rio de Janeiro,BR,Brazil,ufrrj.br,http://www.ufrrj.br/
+91,Universidade Federal de Sergipe,BR,Brazil,ufs.br,http://www.ufs.br/
+92,Universidade Federal de São Carlos,BR,Brazil,ufscar.br,http://www.ufscar.br/
+93,Universidade Federal de Santa Catarina,BR,Brazil,ufsc.br,http://www.ufsc.br/
+94,Universidade Federal de Santa Maria,BR,Brazil,ufsm.br,http://www.ufsm.br/
+95,Universidade Federal de Uberlândia,BR,Brazil,ufu.br,http://www.ufu.br/
+96,Universidade Federal de Viçosa,BR,Brazil,ufv.br,http://www.ufv.br/
+97,Universidade Gama Filho,BR,Brazil,ugf.br,http://www.ugf.br/
+98,Universidade Luterana do Brasil,BR,Brazil,ulbra.br,http://www.ulbra.br/
+99,Universidade de Mogi das Cruzes,BR,Brazil,umc.br,http://www.umc.br/
+100,Universidade de Ribeirão Preto,BR,Brazil,unaerp.br,http://www.unaerp.br/
+101,Universidade da Amazônia,BR,Brazil,unama.br,http://www.unama.br/
+102,Universidade de Brasília,BR,Brazil,unb.br,http://www.unb.br/
+103,Universidade do Estado da Bahia,BR,Brazil,uneb.br,http://www.uneb.br/
+104,Universidade do Extremo Sul Catarinense,BR,Brazil,unesc.rct-sc.br,http://www.unesc.rct-sc.br/
+105,Universidade Estadual Paulista,BR,Brazil,unesp.br,http://www.unesp.br/
+106,Universidade de Guarulhos,BR,Brazil,ung.br,http://www.ung.br/
+107,Centro Universitário de Araraquara,BR,Brazil,uniara.com.br,http://www.uniara.com.br/
+108,Universidade Bandeirante de São Paulo,BR,Brazil,uniban.br,http://www.uniban.br/
+109,Universidade Ibirapuera,BR,Brazil,unib.br,http://www.unib.br/
+110,Universidade Católica Dom Bosco,BR,Brazil,unibosco.br,http://www.unibosco.br/
+111,Faculdades Integradas do Brasil - UNIBRASIL,BR,Brazil,unibrasil.com.br,http://www.unibrasil.com.br/
+112,Universidade Estadual de Campinas,BR,Brazil,unicamp.br,http://www.unicamp.br/
+113,Universidade Católica de Pernambuco,BR,Brazil,unicap.br,http://www.unicap.br/
+114,Universidade Camilo Castelo Branco,BR,Brazil,unicastelo.br,http://www.unicastelo.br/
+115,Universidade Cidade de São Paulo,BR,Brazil,unicid.br,http://www.unicid.br/
+116,Universidade de Cruz Alta,BR,Brazil,unicruz.tche.br,http://www.unicruz.tche.br/
+117,Universidade Cruzeiro do Sul,BR,Brazil,unicsul.br,http://www.unicsul.br/
+118,Universidade para o Desenvolvimento do Alto Vale do Itajaí,BR,Brazil,unidavi.rct-sc.br,http://www.unidavi.rct-sc.br/
+119,Universidade Salvador,BR,Brazil,unifacs.br,http://www.unifacs.br/
+120,Universidade Federal do Amapá,BR,Brazil,unifap.br,http://www.unifap.br/
+121,Universidade de Alfenas,BR,Brazil,unifenas.br,http://www.unifenas.br/
+122,Centro Universitário Serra dos Órgãos,BR,Brazil,unifeso.edu.br,http://www.unifeso.edu.br/
+123,Universidade de Fortaleza,BR,Brazil,unifor.br,http://www.unifor.br/
+124,Universidade de Franca,BR,Brazil,unifran.br,http://www.unifran.br/
+125,Universidade de Nova Iguaçu,BR,Brazil,unig.br,http://www.unig.br/
+126,Universidade do Grande Rio,BR,Brazil,unigranrio.br,http://www.unigranrio.br/
+127,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,BR,Brazil,unijui.tche.br,http://www.unijui.tche.br/
+128,Universidade de Marília,BR,Brazil,unimar.br,http://www.unimar.br/
+129,Universidade Metodista de Piracicaba,BR,Brazil,unimep.br,http://www.unimep.br/
+130,Universidade Metropolitana de Santos,BR,Brazil,unimes.com.br,http://www.unimes.com.br/
+131,Centro Universitário Monte Serrat,BR,Brazil,unimonte.br,http://www.unimonte.br/
+132,Universidade Estadual de Montes Claros,BR,Brazil,unimontes.br,http://www.unimontes.br/
+133,Universidade Estadual do Oeste do Paraná,BR,Brazil,unioeste.br,http://www.unioeste.br/
+134,Centro Universitário de João Pessoa,BR,Brazil,unipe.br,http://www.unipe.br/
+135,Centro Universitário Plinio Leite,BR,Brazil,unipli.com.br,http://www.unipli.com.br/
+136,Universidade Paulista,BR,Brazil,unip-objetivo.br,http://www.unip-objetivo.br/
+137,Universidade Federal de Rondônia,BR,Brazil,unir.br,http://www.unir.br/
+138,Universidade do Rio de Janeiro,BR,Brazil,unirio.br,http://www.unirio.br/
+139,Universidade de Santo Amaro,BR,Brazil,unisa.br,http://www.unisa.br/
+140,Universidade Católica de Santos,BR,Brazil,unisantos.com.br,http://www.unisantos.com.br/
+141,Universidade de Santa Cruz do Sul,BR,Brazil,unisc.br,http://www.unisc.br/
+142,Universidade Vale do Rio dos Sinos,BR,Brazil,unisinos.br,http://www.unisinos.br/
+143,Universidade do Sul de Santa Catarina,BR,Brazil,unisul.br,http://www.unisul.br/
+144,Universidade de Taubaté,BR,Brazil,unitau.br,http://www.unitau.br/
+145,Universidade Tiradentes,BR,Brazil,unit.br,http://www.unit.br/
+146,Universidade de Uberaba,BR,Brazil,uniube.br,http://www.uniube.br/
+147,Universidade Vale do Rio Doce,BR,Brazil,univale.br,http://www.univale.br/
+148,Universidade do Vale do Itajaí,BR,Brazil,univali.rct-sc.br,http://www.univali.rct-sc.br/
+149,Universidade Vale do Paraiba,BR,Brazil,univap.br,http://www.univap.br/
+150,Universidade Federal do Vale do São Francisco,BR,Brazil,univasf.edu.br,http://www.univasf.edu.br/
+151,Universidade Salgado de Oliveira,BR,Brazil,universo.br,http://www.universo.br/
+152,Universidade do Oeste de Santa Catarina,BR,Brazil,unoesc.edu.br,http://www.unoesc.edu.br/
+153,Universidade do Oeste Paulista,BR,Brazil,unoeste.br,http://www.unoeste.br/
+154,Universidade Potiguar,BR,Brazil,unp.br,http://www.unp.br/
+155,Universidade de Pernambuco,BR,Brazil,upe.br,http://www.upe.br/
+156,Universidade de Passo Fundo,BR,Brazil,upf.tche.br,http://www.upf.tche.br/
+157,Faculdades Integradas UPIS,BR,Brazil,upis.br,http://www.upis.br/
+158,Universidade Regional do Cariri,BR,Brazil,urca.br,http://www.urca.br/
+159,Universidade da Região da Campanha,BR,Brazil,urcamp.tche.br,http://www.urcamp.tche.br/
+160,Universidade Regional Integrada do Alto Uruguai e das Missões,BR,Brazil,uri.br,http://www.uri.br/
+161,Universidade do Sagrado Coração,BR,Brazil,usc.br,http://www.usc.br/
+162,Universidade São Francisco,BR,Brazil,usf.br,http://www.usf.br/
+163,Universidade de São Paulo,BR,Brazil,usp.br,http://www.usp.br/
+164,Universidade Santa Úrsula,BR,Brazil,usu.br,http://www.usu.br/
+165,Universidade Veiga de Almeida,BR,Brazil,uva.br,http://www.uva.br/
+166,Universidade Estadual do Vale do Acaraú,BR,Brazil,uvanet.br,http://www.uvanet.br/
+167,Universidade de Itaúna,BR,Brazil,web.prover.com.br,http://web.prover.com.br/fui/
+168,Universidade Tecnológica Federal do Paraná,BR,Brazil,utfpr.edu.br,https://www.utfpr.edu.br/
+169,Instituto Infnet,BR,Brazil,"infnet.edu.br,al.infnet.edu.br,prof.infnet.edu.br","https://www.infnet.edu.br/infnet/,https://ecdd.infnet.edu.br/,https://www.infnet.edu.br/esti/,https://negocios.infnet.edu.br/,https://bootcamp.infnet.edu.br/,https://training.infnet.edu.br/"
+170,Centro Universitário UniFatecie,BR,Brazil,fatecie.edu.br,"https://unifatecie.edu.br/,https://ead.unifatecie.edu.br/,https://fatecie.edu.br/"
+171,Universidade Franciscana,BR,Brazil,ufn.edu.br,https://www.ufn.edu.br/
+172,Faculdade Dom Bosco,BR,Brazil,faculdadedombosco.edu.br,https://faculdadedombosco.edu.br
+173,UNINOVE,BR,Brazil,"uninove.br,uni9.edu.br",https://uninove.br
+174,Polytechnic University of Pernambuco,BR,Brazil,"upe.poli.br,ecomp.poli.br,poli.br",https://upe.poli.br
+175,Cruzeiro do Sul University,BR,Brazil,aluno.cruzeirodosul.edu.br,https://cruzeirodosul.edu.br
+176,Universidade Virtual do Estado de São Paulo,BR,Brazil,univesp.br,https://univesp.br/
+177,Universidade Estadual do Norte do Parana,BR,Brazil,uenp.edu.br,https://uenp.edu.br/

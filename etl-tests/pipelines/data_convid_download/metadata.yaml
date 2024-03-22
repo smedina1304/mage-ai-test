@@ -65,6 +65,8 @@ run_pipeline_in_one_process: false
 spark_config: {}
 tags: []
 type: python
-updated_at: '2023-10-23 21:50:07'
+updated_at: '2024-03-22 21:58:16'
 uuid: data_convid_download
+variables:
+  data_storage_path: ./data_storage
 widgets: []

@@ -12,5 +12,14 @@ def export_data_to_file(df: DataFrame, **kwargs) -> None:
 
     Docs: https://docs.mage.ai/design/data-loading#fileio
     """
-    filepath = 'covid_clean.csv'
+
+    logger = kwargs.get('logger')
+
+    dir_path = kwargs['data_storage_path']
+    dir_path = f'{dir_path}/Covid'    
+    
+    filepath = f'{dir_path}/covid_clean.csv'
+
+    logger.info(f"Output CSV file: {filepath}")
+
     FileIO().export(df, filepath)
