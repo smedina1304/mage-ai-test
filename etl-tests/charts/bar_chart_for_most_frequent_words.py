@@ -1,2 +1,2 @@
-x = df_1.keys()
-y = df_1.values()
+x = df_1["words"]
+y = df_1["count"]

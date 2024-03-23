@@ -34,7 +34,8 @@ def load_data_stopwords_zip(*args, **kwargs):
     stopwords = {"ai", "the", "an", "of", "to", "in", 
                  "for", "and", "with", "on", "is", "yc",
                  "s23", "x", "far", "this", "than", "it",
-                 "a", "hn", "why", "new", "show", "that"}
+                 "a", "hn", "why", "new", "show", "that",
+                 "as", "you", "too", "tool", "pdf"}
 
     # Read stopwords list from the CSV into the ZIP
     for line in stopwords_zip.open('stopwords.csv').readlines():

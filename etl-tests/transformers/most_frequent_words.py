@@ -17,7 +17,7 @@ def transform(data, data_2, *args, **kwargs):
         args: The output from any additional upstream blocks (if applicable)
 
     Returns:
-        Anything (e.g. data frame, dictionary, array, int, str, etc.)
+        top_words: DataFrame with top 15 words
     """
     logger = kwargs.get('logger')
 
@@ -42,12 +42,13 @@ def transform(data, data_2, *args, **kwargs):
     # Get the top 25 most frequent words
     top_words = {
         pair[0]: pair[1]
-        for pair in sorted(word_counts.items(), key=lambda x: x[1], reverse=True)[:10]
+        for pair in sorted(word_counts.items(), key=lambda x: x[1], reverse=True)[:15]
     }
 
     logger.info(f'top_words is {type(top_words)}')
+    logger.info(top_words)
 
-    return top_words
+    return pd.DataFrame(top_words.items(), columns=['words', 'count'])
 
 
 @test
